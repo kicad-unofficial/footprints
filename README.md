@@ -10,3 +10,5 @@ This is an unofficial collection of footprint libraries for KiCad 6.
 - Hide `REF**` field on the silkscreen layer.
 - Fit the `REF**` field within the component outline, if possible.
 - Don't set clearance overrides, even if specified by the vendor.
+- Include dimensions (`D` x `E`) in description (e.g. `2x1.25`), omit trailing decimal zeroes
+- Include nominal pitch (`e`) in description (e.g. `0.65P`), omit trailing decimal zeroes
