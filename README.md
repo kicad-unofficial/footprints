@@ -45,7 +45,7 @@ Each library contains footprints for a specific vendor or manufacturer.
   standard package names in the description field.
 - Always provide a link to the datasheet or technical specifications page, place the URL in parenthesis at the end of the description field.
 - Hide `REF**` field on the silkscreen layer.
-- Fit the `REF**` field within the component outline, if possible.
+- Fit the `REF**` field on the fab layer within the component outline, if possible.
 - Don't set clearance overrides, even if specified by the vendor.
 - Include dimensions (`D` x `E`) in description (e.g. `2x1.25`), omit trailing decimal zeroes
 - Include nominal pitch (`e`) in description (e.g. `0.65P`), omit trailing decimal zeroes
