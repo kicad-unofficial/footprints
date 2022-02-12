@@ -18,7 +18,7 @@ An unofficial collection of PCB footprints for KiCad 6.
 The [kicad-unofficial/symbols] repository defines schematic symbols that make
 use of these footprints.
 
-# Enclosures
+## Enclosures
 
 Some footprints represent PCB enclosures rather than parts to be placed on the
 PCB. They are marked with a 📦&nbsp; (package icon) in the [footprint index]
@@ -26,7 +26,7 @@ below.
 
 Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 
-# Footprint Index
+## Footprint Index
 
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
