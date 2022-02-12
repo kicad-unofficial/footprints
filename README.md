@@ -24,6 +24,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 - [Hammond](#hammond)
 - [NXP](#nxp)
 - [onsemi](#onsemi)
+- [TagConnect](#tagconnect)
 
 ### Hammond
 
@@ -38,6 +39,13 @@ Each library contains footprints for a specific vendor or manufacturer.
 ### onsemi
 
 - <a id="onsemi_517BB−01">[517BB−01](https://www.onsemi.com/pub/Collateral/517BB.PDF)  &mdash; UDFN10 2.5x1 0.5P 
+
+### TagConnect
+
+- <a id="TagConnect_TC2030-IDC-NL+CLIP">[TC2030-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-NL-CLIP 
+- <a id="TagConnect_TC2030-IDC-NL">[TC2030-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs 
+- <a id="TagConnect_TC2050-IDC-NL+CLIP">[TC2050-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-NL-CLIP 
+- <a id="TagConnect_TC2050-IDC-NL">[TC2050-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs 
 
 ## Notes for Footprint Creators
 
