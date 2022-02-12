@@ -28,24 +28,24 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Hammond
 
-- <a id="Hammond_1551K">[1551K](https://www.hammfg.com/electronics/small-case/plastic/1551) [📦](#enclosures 'PCB Enclosure') &mdash; 1551 series enclosure, "K" variant, 80x40x20mm 
-- <a id="Hammond_1591XXL">[1591XXL](https://www.hammfg.com/electronics/small-case/plastic/1591xx) [📦](#enclosures 'PCB Enclosure') &mdash; 1591XX series enclosure, "L" variant, 86x56x36mm 
+- <a id="Hammond_1551K">[1551K](https://www.hammfg.com/electronics/small-case/plastic/1551) [📦](#enclosures 'PCB Enclosure') &mdash; 1551 series  • "K" variant • 80×40×20mm
+- <a id="Hammond_1591XXL">[1591XXL](https://www.hammfg.com/electronics/small-case/plastic/1591xx) [📦](#enclosures 'PCB Enclosure') &mdash; 1591XX series  • "L" variant • 86×56×36mm
 
 ### NXP
 
-- <a id="NXP_SOT-353-1">[SOT-353-1](https://www.nexperia.com/packages/SOT353-1.html) &mdash; TSSOP-5 MO-203 SC-88A 2x1.25 0.65P 
-- <a id="NXP_SOT-753">[SOT-753](https://www.nxp.com/packages/SOT753.html) &mdash; TSOP-5 SC-74A 2.9x1.5 0.95P 
+- <a id="NXP_SOT-353-1">[SOT-353-1](https://www.nexperia.com/packages/SOT353-1.html) &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
+- <a id="NXP_SOT-753">[SOT-753](https://www.nxp.com/packages/SOT753.html) &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
 
 ### onsemi
 
-- <a id="onsemi_517BB−01">[517BB−01](https://www.onsemi.com/pub/Collateral/517BB.PDF) &mdash; UDFN10 2.5x1 0.5P 
+- <a id="onsemi_517BB-01">[517BB-01](https://www.onsemi.com/pub/Collateral/517BB.PDF) &mdash; UDFN10 • 2.5×1mm 0.5P
 
 ### TagConnect
 
-- <a id="TagConnect_TC2030-NL">[TC2030-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf) &mdash; header for 6-pin plug-of-nails, no legs 
-- <a id="TagConnect_TC2030-NL+CLIP">[TC2030-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf) &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-CLIP 
-- <a id="TagConnect_TC2050-NL">[TC2050-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf) &mdash; header for 10-pin plug-of-nails, no legs 
-- <a id="TagConnect_TC2050-NL+CLIP">[TC2050-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf) &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-CLIP 
+- <a id="TagConnect_TC2030-NL">[TC2030-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf) &mdash; header for 6-pin plug-of-nails • no legs
+- <a id="TagConnect_TC2030-NL+CLIP">[TC2030-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf) &mdash; header for 6-pin plug-of-nails • no legs • clearance for TC2030-CLIP
+- <a id="TagConnect_TC2050-NL">[TC2050-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf) &mdash; header for 10-pin plug-of-nails • no legs
+- <a id="TagConnect_TC2050-NL+CLIP">[TC2050-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf) &mdash; header for 10-pin plug-of-nails • no legs • courtyard for TC2050-CLIP
 
 ## Notes for Footprint Creators
 

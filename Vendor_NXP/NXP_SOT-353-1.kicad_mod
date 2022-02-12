@@ -1,7 +1,7 @@
 (footprint "NXP_SOT-353-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6207663C)
-  (descr "TSSOP-5 MO-203 SC-88A 2x1.25 0.65P (https://www.nexperia.com/packages/SOT353-1.html)")
+  (tedit 6207B4BF)
+  (descr "TSSOP-5, MO-203 SC-88A, 2x1.25mm 0.65P (https://www.nexperia.com/packages/SOT353-1.html)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
