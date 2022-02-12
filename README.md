@@ -8,7 +8,7 @@ An unofficial collection of PCB footprints for KiCad 6.
 The [kicad-unofficial/symbols] repository defines schematic symbols that make
 use of these footprints.
 
-## Enclosures
+# Enclosures
 
 Some footprints represent PCB enclosures rather than parts to be placed on the
 PCB. They are marked with a 📦&nbsp; (package icon) in the [footprint index]
@@ -16,7 +16,7 @@ below.
 
 Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 
-## Footprint Index
+# Footprint Index
 
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
@@ -27,17 +27,17 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Hammond
 
-- [1551K](https://www.hammfg.com/electronics/small-case/plastic/1551) 📦&nbsp; &mdash; 1551 series enclosure, "K" variant, 80x40x20mm 
-- [1591XXL](https://www.hammfg.com/electronics/small-case/plastic/1591xx) 📦&nbsp; &mdash; 1591XX series enclosure, "L" variant, 86x56x36mm 
+- <a id="Hammond_1551K">[1551K](https://www.hammfg.com/electronics/small-case/plastic/1551) 📦&nbsp; &mdash; 1551 series enclosure, "K" variant, 80x40x20mm 
+- <a id="Hammond_1591XXL">[1591XXL](https://www.hammfg.com/electronics/small-case/plastic/1591xx) 📦&nbsp; &mdash; 1591XX series enclosure, "L" variant, 86x56x36mm 
 
 ### NXP
 
-- [SOT-353-1](https://www.nexperia.com/packages/SOT353-1.html)  &mdash; TSSOP-5 MO-203 SC-88A 2x1.25 0.65P 
-- [SOT-753](https://www.nxp.com/packages/SOT753.html)  &mdash; TSOP-5 SC-74A 2.9x1.5 0.95P 
+- <a id="NXP_SOT-353-1">[SOT-353-1](https://www.nexperia.com/packages/SOT353-1.html)  &mdash; TSSOP-5 MO-203 SC-88A 2x1.25 0.65P 
+- <a id="NXP_SOT-753">[SOT-753](https://www.nxp.com/packages/SOT753.html)  &mdash; TSOP-5 SC-74A 2.9x1.5 0.95P 
 
 ### onsemi
 
-- [517BB−01](https://www.onsemi.com/pub/Collateral/517BB.PDF)  &mdash; UDFN10 2.5x1 0.5P 
+- <a id="onsemi_517BB−01">[517BB−01](https://www.onsemi.com/pub/Collateral/517BB.PDF)  &mdash; UDFN10 2.5x1 0.5P 
 
 ## Notes for Footprint Creators
 
