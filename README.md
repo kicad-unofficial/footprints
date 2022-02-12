@@ -33,8 +33,8 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### NXP
 
-- <a id="NXP_SOT-353-1">[SOT-353-1](https://www.nexperia.com/packages/SOT353-1.html) &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
-- <a id="NXP_SOT-753">[SOT-753](https://www.nxp.com/packages/SOT753.html) &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
+- <a id="NXP_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
+- <a id="NXP_SOT753">[SOT753](https://www.nxp.com/packages/SOT753.html) &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
 
 ### onsemi
 
