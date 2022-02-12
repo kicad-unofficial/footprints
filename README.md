@@ -8,7 +8,7 @@ An unofficial collection of PCB footprints for KiCad 6.
 The [kicad-unofficial/symbols] repository defines schematic symbols that make
 use of these footprints.
 
-## Enclosures
+# Enclosures
 
 Some footprints represent PCB enclosures rather than parts to be placed on the
 PCB. They are marked with a 📦&nbsp; (package icon) in the [footprint index]
@@ -16,7 +16,7 @@ below.
 
 Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 
-## Footprint Index
+# Footprint Index
 
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
@@ -42,10 +42,10 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### TagConnect
 
-- <a id="TagConnect_TC2030-IDC-NL+CLIP">[TC2030-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-NL-CLIP 
 - <a id="TagConnect_TC2030-IDC-NL">[TC2030-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs 
-- <a id="TagConnect_TC2050-IDC-NL+CLIP">[TC2050-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-NL-CLIP 
+- <a id="TagConnect_TC2030-IDC-NL+CLIP">[TC2030-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-NL-CLIP 
 - <a id="TagConnect_TC2050-IDC-NL">[TC2050-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs 
+- <a id="TagConnect_TC2050-IDC-NL+CLIP">[TC2050-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-NL-CLIP 
 
 ## Notes for Footprint Creators
 

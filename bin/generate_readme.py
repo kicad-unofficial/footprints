@@ -1,11 +1,23 @@
 #!/usr/bin/env python3
+import functools
 import os
-from os.path import splitext, basename
 import re
 from utils.common.kicad_mod import KicadMod
 import sys
 
 dirs = sorted(sys.argv[1:], key=str.casefold)
+
+
+def file_cmp(a, b):
+    a, _ = os.path.splitext(a.lower())
+    b, _ = os.path.splitext(b.lower())
+
+    if a.startswith(b):
+        return +1
+    if b.startswith(a):
+        return -1
+
+    return (a > b) - (a < b)
 
 
 print("""
@@ -18,7 +30,7 @@ An unofficial collection of PCB footprints for KiCad 6.
 The [kicad-unofficial/symbols] repository defines schematic symbols that make
 use of these footprints.
 
-## Enclosures
+# Enclosures
 
 Some footprints represent PCB enclosures rather than parts to be placed on the
 PCB. They are marked with a 📦&nbsp; (package icon) in the [footprint index]
@@ -26,27 +38,30 @@ below.
 
 Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 
-## Footprint Index
+# Footprint Index
 
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
 """)
 
 for dir in dirs:
-    name = basename(dir).removeprefix('Vendor_')
+    name = os.path.basename(dir).removeprefix('Vendor_')
     print(f"- [{name}](#{name.lower()})")
 
 print()
 
 for dir in dirs:
-    name = basename(dir).removeprefix('Vendor_')
+    name = os.path.basename(dir).removeprefix('Vendor_')
 
     print(f"### {name}")
     print()
 
     url_pattern = re.compile("\\((?P<url>https?://[^\s]+)\\)")
 
-    for file in sorted(os.listdir(dir)):
+    files = os.listdir(dir)
+    files.sort(key=functools.cmp_to_key(file_cmp))
+
+    for file in files:
         mod = KicadMod(os.path.join(dir, file))
         mod_name = mod.name.removeprefix(name)
         mod_name = mod_name.replace("_", " ")
