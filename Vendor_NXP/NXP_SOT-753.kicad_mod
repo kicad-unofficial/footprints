@@ -1,8 +1,7 @@
-(footprint "NXP SOT-753" (version 20211014) (generator pcbnew)
+(footprint "NXP_SOT-753" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61ECBE99)
-  (descr "https://www.nxp.com/packages/SOT753.html")
-  (tags "TSOP-5 SC-74A 2.9x1.5 0.95P")
+  (tedit 62076621)
+  (descr "TSOP-5 SC-74A 2.9x1.5 0.95P (https://www.nxp.com/packages/SOT753.html)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.5 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
