@@ -42,10 +42,10 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### TagConnect
 
-- <a id="TagConnect_TC2030-IDC-NL">[TC2030-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs 
-- <a id="TagConnect_TC2030-IDC-NL+CLIP">[TC2030-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-NL-CLIP 
-- <a id="TagConnect_TC2050-IDC-NL">[TC2050-IDC-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs 
-- <a id="TagConnect_TC2050-IDC-NL+CLIP">[TC2050-IDC-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-NL-CLIP 
+- <a id="TagConnect_TC2030-NL">[TC2030-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs 
+- <a id="TagConnect_TC2030-NL+CLIP">[TC2030-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)  &mdash; header for 6-pin plug-of-nails, no legs, clearance for TC2030-CLIP 
+- <a id="TagConnect_TC2050-NL">[TC2050-NL](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs 
+- <a id="TagConnect_TC2050-NL+CLIP">[TC2050-NL+CLIP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf)  &mdash; header for 10-pin plug-of-nails, no legs, courtyard for TC2050-CLIP 
 
 ## Notes for Footprint Creators
 
