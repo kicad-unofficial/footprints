@@ -38,6 +38,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### onsemi
 
+- <a id="onsemi_515AH">[515AH](https://www.onsemi.com/pub/Collateral/515AH.PDF) &mdash; WDFNW10 • 2.5×1mm 0.5P
 - <a id="onsemi_517BB-01">[517BB-01](https://www.onsemi.com/pub/Collateral/517BB.PDF) &mdash; UDFN10 • 2.5×1mm 0.5P
 
 ### TagConnect
