@@ -1,8 +1,8 @@
 (footprint "ESP32-WROVER" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6208D154)
+  (tedit 62090055)
   (descr "ESP32 module, 18x31.4x3.3mm (https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf)")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -12.7) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3188d4c7-4f57-4e99-be7a-aee31568e946)
