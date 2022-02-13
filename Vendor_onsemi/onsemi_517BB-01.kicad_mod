@@ -1,6 +1,6 @@
 (footprint "onsemi_517BB-01" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6208943A)
+  (tedit 62089734)
   (descr "UDFN10, 2.5x1mm 0.5P (https://www.onsemi.com/pub/Collateral/517BB.PDF)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.1 unlocked) (layer "F.SilkS") hide
@@ -15,8 +15,8 @@
     (effects (font (size 0.4 0.4) (thickness 0.05)))
     (tstamp 646d9e91-59b4-4865-a2fc-29780ed32563)
   )
-  (fp_line (start -0.5 1.35) (end 0.5 1.35) (layer "F.SilkS") (width 0.12) (tstamp 0a3cbae7-b160-4bf5-bc29-b843867e2bbd))
-  (fp_line (start -0.7 -1.35) (end 0.5 -1.35) (layer "F.SilkS") (width 0.12) (tstamp 702bcc4a-1260-4306-a7ef-df0173640909))
+  (fp_line (start -0.5 1.4) (end 0.5 1.4) (layer "F.SilkS") (width 0.12) (tstamp 0a3cbae7-b160-4bf5-bc29-b843867e2bbd))
+  (fp_line (start -0.75 -1.4) (end 0.5 -1.4) (layer "F.SilkS") (width 0.12) (tstamp 702bcc4a-1260-4306-a7ef-df0173640909))
   (fp_rect (start -0.9 -1.5) (end 0.9 1.5) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp e483f698-f72e-4267-b2e6-53386eaa9d25))
   (fp_rect (start -0.5 -1.25) (end 0.5 1.25) (layer "F.Fab") (width 0.1) (fill none) (tstamp 36709ce8-feaf-4ca8-a999-4108fb101352))
   (pad "1" smd roundrect (at -0.4 -1) (size 0.5 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cfb29de7-5d87-4b80-bc4c-399de4fa7fae))
