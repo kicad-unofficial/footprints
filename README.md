@@ -12,8 +12,8 @@ use of these footprints.
 
 Official manufacturer 3D model files are associated with each footprint whenever
 they are made available to the public. Where an official footprint is not
-available, some footprints use a custom 3D model made specifically for this
-library.
+available the model may be created specifically for this library or obtained
+from a suitably open source such as SnapEDA.
 
 Footprints that have 3D models are marked with a 🌐 (globe icon) in the
 [footprint index] below.
@@ -38,7 +38,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Espressif
 
-- <a id="ESP32-WROVER">[ESP32-WROVER](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf) &mdash; ESP32 module • 18×31.4×3.3mm
+- <a id="ESP32-WROVER">[ESP32-WROVER](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf) [🌐](#3d-models 'Has 3D Model') &mdash; ESP32 module • 18×31.4×3.3mm
 
 ### Hammond
 

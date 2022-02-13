@@ -69,8 +69,8 @@ use of these footprints.
 
 Official manufacturer 3D model files are associated with each footprint whenever
 they are made available to the public. Where an official footprint is not
-available, some footprints use a custom 3D model made specifically for this
-library.
+available the model may be created specifically for this library or obtained
+from a suitably open source such as SnapEDA.
 
 Footprints that have 3D models are marked with a 🌐 (globe icon) in the
 [footprint index] below.

@@ -31,10 +31,14 @@ Copyright (c) 2022 James Harris
 --------------------------------------------------------------------------------
 
 Official manufacturer 3D model files remain the property of their respective
-creators. Where necessary such models have been rotated and translated to align
-with the footprint but are otherwise unmodified. They can be identified by the
-presence of `official` in the file extension, for example
-`NXP_SOT353-1.official.step`.
+creators. These models use the `.official.step` file extension.
 
-Any 3D model files without the `.official` extension are original creations and
-are subject to the license terms described above.
+SnapEDA 3D models are made available under the Creative Commons CC-BY-SA 4.0
+License as per the SnapEDA website, https://snapeda.com. These models use the
+`.snapeda.step` file extension.
+
+Where necessary, these third-party models have been rotated and translated to
+align with the footprint but are otherwise unmodified.
+
+All remaining 3D model files are original creations and are made available under
+the same license as the footprints.
