@@ -1,6 +1,6 @@
 (footprint "ESP32-WROVER" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62090055)
+  (tedit 62090293)
   (descr "ESP32 module, 18x31.4x3.3mm (https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -12.7) (layer "F.SilkS") hide
@@ -19,7 +19,7 @@
   (fp_line (start -9.25 16) (end 9.25 16) (layer "F.SilkS") (width 0.12) (tstamp bdfbdb55-0008-4436-95b1-51a8159ddb03))
   (fp_line (start 9.25 -16) (end 9.25 -9) (layer "F.SilkS") (width 0.12) (tstamp c0aa0698-9774-4919-a95c-5f2686eddd34))
   (fp_line (start -9.25 -9.75) (end 9.25 -9.75) (layer "F.SilkS") (width 0.12) (tstamp f591e1ac-75b5-464e-acf0-13883200b1c2))
-  (fp_rect (start -9.8 -15.95) (end 9.7 15.95) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 9d7a3540-3aa8-4d98-a405-5a6c25c5601a))
+  (fp_rect (start -9.8 -16.2) (end 9.7 16.2) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 9d7a3540-3aa8-4d98-a405-5a6c25c5601a))
   (fp_line (start -9 -9.48) (end 9 -9.48) (layer "F.Fab") (width 0.1) (tstamp 13c8c714-033d-4ff3-b0f9-ca208a328fd2))
   (fp_rect (start -9 -15.7) (end 9 15.7) (layer "F.Fab") (width 0.1) (fill none) (tstamp 1bc6be43-f9b7-4589-99e4-24593a20ee1a))
   (pad "1" smd rect (at -8.8 -8.26) (size 1.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 748472fb-a3ca-4291-8bcc-dd1952d640c5))
@@ -61,6 +61,20 @@
   (pad "37" smd rect (at 8.7 -6.99) (size 1.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8112ad9d-fc3c-4368-bb4c-3b88b5dcc809))
   (pad "38" smd rect (at 8.7 -8.26) (size 1.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0528a248-db00-443f-8211-892f2da96d69))
   (pad "39" smd rect (at -1.5 -0.5) (size 3.7 3.7) (layers "F.Cu" "F.Mask") (tstamp 595fb042-d602-4d43-b4bc-faf7654ac9d5))
+  (zone (net 0) (net_name "") (layers *.Cu) (tstamp e3b802f9-1d7a-467d-aabb-94554940bd71) (name "Antenna") (hatch full 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints not_allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy -9.75 -16.25)
+        (xy 9.75 -16.25)
+        (xy 9.75 -9.5)
+        (xy -9.75 -9.5)
+      )
+    )
+  )
   (model ":Vendor_Espressif:ESP32-WROVER.snapeda.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
