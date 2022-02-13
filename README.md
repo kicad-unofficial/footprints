@@ -30,10 +30,15 @@ Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
 
+- [Espressif](#espressif)
 - [Hammond](#hammond)
 - [NXP](#nxp)
 - [onsemi](#onsemi)
 - [TagConnect](#tagconnect)
+
+### Espressif
+
+- <a id="ESP32-WROVER">[ESP32-WROVER](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf) &mdash; ESP32 module • 18×31.4×3.3mm
 
 ### Hammond
 
