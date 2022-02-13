@@ -65,11 +65,20 @@ An unofficial collection of PCB footprints for KiCad 6.
 The [kicad-unofficial/symbols] repository defines schematic symbols that make
 use of these footprints.
 
+## 3D Models
+
+Official manufacturer 3D model files are associated with each footprint whenever
+they are made available to the public. Where an official footprint is not
+available, some footprints use a custom 3D model made specifically for this
+library.
+
+Footprints that have 3D models are marked with a 🌐 (globe icon) in the
+[footprint index] below.
+
 ## Enclosures
 
 Some footprints represent PCB enclosures rather than parts to be placed on the
-PCB. They are marked with a 📦 (package icon) in the [footprint index]
-below.
+PCB. They are marked with a 📦 (package icon) in the [footprint index] below.
 
 Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 
@@ -116,7 +125,7 @@ for dir in dirs:
             item += "[📦](#enclosures 'PCB Enclosure') "
 
         if has_model(mod):
-            item += "[🌐](# 'Has 3D Model') "
+            item += "[🌐](#3d-models 'Has 3D Model') "
 
         item += f"&mdash; {desc}"
 
