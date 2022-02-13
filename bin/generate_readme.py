@@ -91,6 +91,10 @@ for dir in dirs:
     files.sort(key=functools.cmp_to_key(file_cmp))
 
     for file in files:
+        _, ext = os.path.splitext(file)
+        if ext != ".kicad_mod":
+            continue
+
         mod = KicadMod(os.path.join(dir, file))
         mod_name = mod.name.removeprefix(name)
         mod_name = mod_name.replace("_", " ")
