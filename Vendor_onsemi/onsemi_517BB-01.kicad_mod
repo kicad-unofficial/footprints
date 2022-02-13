@@ -1,6 +1,6 @@
 (footprint "onsemi_517BB-01" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62089734)
+  (tedit 6208B7FD)
   (descr "UDFN10, 2.5x1mm 0.5P (https://www.onsemi.com/pub/Collateral/517BB.PDF)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.1 unlocked) (layer "F.SilkS") hide
@@ -29,4 +29,9 @@
   (pad "8" smd roundrect (at 0.4 0) (size 0.5 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 84aac022-880b-473d-82ad-f2827a88892f))
   (pad "9" smd roundrect (at 0.4 -0.5) (size 0.5 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2923d83c-3334-4b85-acfa-e9f2eb6f5eb5))
   (pad "10" smd roundrect (at 0.4 -1) (size 0.5 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 73917165-0d82-4691-91ca-2eb1b8bbe05e))
+  (model ":Vendor_onsemi:onsemi_517BB-01.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
