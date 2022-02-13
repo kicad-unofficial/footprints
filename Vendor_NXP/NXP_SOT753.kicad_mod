@@ -1,6 +1,6 @@
 (footprint "NXP_SOT753" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62088F23)
+  (tedit 62089454)
   (descr "TSOP-5, SC-74A, 2.9x1.5mm 0.95P (https://www.nxp.com/packages/SOT753.html)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.5 unlocked) (layer "F.SilkS") hide
@@ -17,7 +17,7 @@
   )
   (fp_line (start 0.8 -1.6) (end -1.7 -1.6) (layer "F.SilkS") (width 0.12) (tstamp 07ea9fe0-fccf-4161-ae79-4bb53994d273))
   (fp_line (start 0.8 1.6) (end -0.8 1.6) (layer "F.SilkS") (width 0.12) (tstamp 45d251bd-4b8c-43e0-a1a3-865b3e4a5a83))
-  (fp_rect (start -1.725 -1.65) (end 1.725 1.65) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 888c6fdf-c198-440a-97af-035b863dc875))
+  (fp_rect (start -1.85 -1.7) (end 1.85 1.7) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 888c6fdf-c198-440a-97af-035b863dc875))
   (fp_rect (start -0.75 1.45) (end 0.75 -1.45) (layer "F.Fab") (width 0.1) (fill none) (tstamp ed456be0-07b8-43ac-86b3-64162a4bcc9a))
   (pad "1" smd roundrect (at -1.2 -0.95) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f68e48ba-1983-4674-be66-79dbf442fe2e))
   (pad "2" smd roundrect (at -1.2 0) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9fd2c636-f5cd-47e5-bbbc-56f7c25ff6b0))
