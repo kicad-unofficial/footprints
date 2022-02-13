@@ -1,6 +1,6 @@
 (footprint "NXP_SOT353-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6207B7B2)
+  (tedit 62088F1C)
   (descr "TSSOP-5, MO-203 SC-88A, 2x1.25mm 0.65P (https://www.nexperia.com/packages/SOT353-1.html)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS") hide
@@ -24,4 +24,9 @@
   (pad "3" smd roundrect (at -0.9 0.75 180) (size 0.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ff377cbc-6042-46e6-9644-84dbcdaf714a))
   (pad "4" smd roundrect (at 0.9 0.75 180) (size 0.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp aa187f99-5abf-4aaf-99c2-f9281d13fd98))
   (pad "5" smd roundrect (at 0.9 -0.75 180) (size 0.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d10143d8-9195-4117-b528-293ccad4be7a))
+  (model ":Vendor_NXP:NXP_SOT353-1.official.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
