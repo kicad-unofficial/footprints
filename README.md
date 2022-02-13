@@ -33,13 +33,13 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### NXP
 
-- <a id="NXP_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
-- <a id="NXP_SOT753">[SOT753](https://www.nxp.com/packages/SOT753.html) &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
+- <a id="NXP_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) [🌐](# 'Has 3D Model') &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
+- <a id="NXP_SOT753">[SOT753](https://www.nxp.com/packages/SOT753.html) [🌐](# 'Has 3D Model') &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
 
 ### onsemi
 
-- <a id="onsemi_515AH">[515AH](https://www.onsemi.com/pub/Collateral/515AH.PDF) &mdash; WDFNW10 • 2.5×1mm 0.5P
-- <a id="onsemi_517BB-01">[517BB-01](https://www.onsemi.com/pub/Collateral/517BB.PDF) &mdash; UDFN10 • 2.5×1mm 0.5P
+- <a id="onsemi_515AH">[515AH](https://www.onsemi.com/pub/Collateral/515AH.PDF) [🌐](# 'Has 3D Model') &mdash; WDFNW10 • 2.5×1mm 0.5P
+- <a id="onsemi_517BB-01">[517BB-01](https://www.onsemi.com/pub/Collateral/517BB.PDF) [🌐](# 'Has 3D Model') &mdash; UDFN10 • 2.5×1mm 0.5P
 
 ### TagConnect
 
