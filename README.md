@@ -32,6 +32,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 - [Espressif](#espressif)
 - [Hammond](#hammond)
+- [Microchip](#microchip)
 - [NXP](#nxp)
 - [onsemi](#onsemi)
 - [TagConnect](#tagconnect)
@@ -44,6 +45,11 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 - <a id="Hammond_1551K">[1551K](https://www.hammfg.com/electronics/small-case/plastic/1551) [📦](#enclosures 'PCB Enclosure') &mdash; 1551 series  • "K" variant • 80×40×20mm
 - <a id="Hammond_1591XXL">[1591XXL](https://www.hammfg.com/electronics/small-case/plastic/1591xx) [📦](#enclosures 'PCB Enclosure') &mdash; 1591XX series  • "L" variant • 86×56×36mm
+
+### Microchip
+
+- <a id="TDFN-8-2x3-MN">[TDFN-8-2x3-MN](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MN_C04-0129E-MN.pdf) &mdash; TDFN-8 (MN) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad
+- <a id="TDFN-8-2x3-MNY">[TDFN-8-2x3-MNY](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf) &mdash; TDFN-8 (MNY) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad • Ni/Pd/Au leads
 
 ### NXP
 
