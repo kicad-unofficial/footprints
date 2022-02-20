@@ -40,7 +40,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### BSC
 
-- <a id="BSC_RJ-018">[RJ-018](https://www.alibaba.com/product-detail/Mid-Mount-Low-profile-RJ45-connector_62592748859.html) &mdash; low profile RJ-45 connector with LEDs
+- <a id="BSC_RJ-018">[RJ-018](https://www.alibaba.com/product-detail/Mid-Mount-Low-profile-RJ45-connector_62592748859.html) [🌐](#3d-models 'Has 3D Model') &mdash; low profile RJ-45 connector with LEDs
 
 ### Espressif
 
