@@ -1,6 +1,6 @@
 (footprint "TagConnect_TC2030-NL+CLIP" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6208BC14)
+  (tedit 6211A5B3)
   (descr "header for 6-pin plug-of-nails, no legs, clearance for TC2030-CLIP (https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf)")
   (tags "programming pogo jtag debug")
   (attr exclude_from_pos_files exclude_from_bom)
@@ -38,10 +38,10 @@
   (pad "4" connect circle (at 1.27 -0.635) (size 0.787 0.787) (layers "F.Cu" "F.Mask") (tstamp 411d4270-c66c-4318-b7fb-1470d34862b8))
   (pad "5" connect circle (at 0 -0.635) (size 0.787 0.787) (layers "F.Cu" "F.Mask") (tstamp 221bef83-3ea7-4d3f-adeb-53a8a07c6273))
   (pad "6" connect circle (at -1.27 -0.635) (size 0.787 0.787) (layers "F.Cu" "F.Mask") (tstamp 4d586a18-26c5-441e-a9ff-8125ee516126))
-  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 6ffb591f-ccc8-46d0-aa6e-c6d4bb858e87) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp f5edecff-c7e4-4ade-b33f-898c336b9ff1) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias not_allowed) (pads not_allowed ) (copperpour allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias not_allowed) (pads allowed ) (copperpour allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
