@@ -1,6 +1,6 @@
 (footprint "BSC_RJ-018" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62119E79)
+  (tedit 62119F07)
   (descr "low profile RJ-45 connector with LEDs (https://www.alibaba.com/product-detail/Mid-Mount-Low-profile-RJ45-connector_62592748859.html)")
   (tags "ethernet RJ 8P8C")
   (attr through_hole)
@@ -81,4 +81,9 @@
   (pad "12" thru_hole circle (at 4.57 -10.61) (size 1.26 1.26) (drill 1) (layers *.Cu *.Mask) (tstamp e8c50f1b-c316-4110-9cce-5c24c65a1eaa))
   (pad "SH" thru_hole oval (at -8.025 -3.25) (size 0.9 2.8) (drill oval 0.5 2.4) (layers *.Cu *.Mask) (tstamp aca4de92-9c41-4c2b-9afa-540d02dafa1c))
   (pad "SH" thru_hole oval (at 8.025 -3.25) (size 0.9 2.8) (drill oval 0.5 2.4) (layers *.Cu *.Mask) (tstamp d7269d2a-b8c0-422d-8f25-f79ea31bf75e))
+  (model ":Vendor_BSC:BSC_RJ-018.official.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
