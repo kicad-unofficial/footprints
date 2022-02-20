@@ -30,12 +30,17 @@ Enclosure footprints define the edge cuts layer (PCB shape) and mounting holes.
 This is an index of the available libraries and the footprints they contain.
 Each library contains footprints for a specific vendor or manufacturer.
 
+- [BSC](#bsc)
 - [Espressif](#espressif)
 - [Hammond](#hammond)
 - [Microchip](#microchip)
 - [NXP](#nxp)
 - [onsemi](#onsemi)
 - [TagConnect](#tagconnect)
+
+### BSC
+
+- <a id="BSC_RJ-018">[RJ-018](https://www.alibaba.com/product-detail/Mid-Mount-Low-profile-RJ45-connector_62592748859.html) &mdash; low profile RJ-45 connector with LEDs
 
 ### Espressif
 
