@@ -110,6 +110,8 @@ for dir in dirs:
 
         mod = KicadMod(os.path.join(dir, file))
         mod_name = mod.name.removeprefix(name)
+        assert mod_name != mod.name, f"footprint is not prefixed with vendor name ({dir}/{file})"
+
         mod_name = mod_name.replace("_", " ")
         mod_name = mod_name.strip()
 

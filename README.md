@@ -44,7 +44,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Espressif
 
-- <a id="ESP32-WROVER">[ESP32-WROVER](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf) [🌐](#3d-models 'Has 3D Model') &mdash; ESP32 module • 18×31.4×3.3mm
+- <a id="Espressif_ESP32-WROVER">[ESP32-WROVER](https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf) [🌐](#3d-models 'Has 3D Model') &mdash; ESP32 module • 18×31.4×3.3mm
 
 ### Hammond
 
@@ -53,8 +53,8 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Microchip
 
-- <a id="TDFN-8-2x3-MN">[TDFN-8-2x3-MN](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MN_C04-0129E-MN.pdf) &mdash; TDFN-8 (MN) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad
-- <a id="TDFN-8-2x3-MNY">[TDFN-8-2x3-MNY](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf) &mdash; TDFN-8 (MNY) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad • Ni/Pd/Au leads
+- <a id="Microchip_TDFN-8-2x3-MN">[TDFN-8-2x3-MN](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MN_C04-0129E-MN.pdf) &mdash; TDFN-8 (MN) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad
+- <a id="Microchip_TDFN-8-2x3-MNY">[TDFN-8-2x3-MNY](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf) &mdash; TDFN-8 (MNY) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad • Ni/Pd/Au leads
 
 ### Nexperia
 
