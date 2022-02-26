@@ -58,6 +58,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 
 ### Nexperia
 
+- <a id="Nexperia_SOD882">[SOD882](https://www.nexperia.com/packages/SOD882.html) [🌐](#3d-models 'Has 3D Model') &mdash; DFN1006-2 • 1×0.6mm 0.65P
 - <a id="Nexperia_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
 - <a id="Nexperia_SOT753">[SOT753](https://www.nexperia.com/packages/SOT753.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
 
