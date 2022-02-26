@@ -1,13 +1,13 @@
-(footprint "NXP_SOT753" (version 20211014) (generator pcbnew)
+(footprint "Nexperia_SOT753" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 620896CA)
-  (descr "TSOP-5, SC-74A, 2.9x1.5mm 0.95P (https://www.nxp.com/packages/SOT753.html)")
+  (descr "TSOP-5, SC-74A, 2.9x1.5mm 0.95P (https://www.nexperia.com/packages/SOT753.html)")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.5 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 33aa4306-27d6-4090-96fe-2e0a2a713e0b)
   )
-  (fp_text value "NXP_SOT753" (at 0 2.5 unlocked) (layer "F.Fab")
+  (fp_text value "Nexperia_SOT753" (at 0 2.5 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a631a287-dbe8-4491-9924-f1eeb226bfe0)
   )
@@ -24,7 +24,7 @@
   (pad "3" smd roundrect (at -1.2 0.95) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ea98f420-4e24-48e8-aa57-57b261e9db18))
   (pad "4" smd roundrect (at 1.2 0.95) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d62b9747-f33c-4238-945e-0988aa465b71))
   (pad "5" smd roundrect (at 1.2 -0.95) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fa93048a-0287-417c-a157-84428f11f7dd))
-  (model ":Vendor_NXP:NXP_SOT753.official.step"
+  (model ":Vendor_Nexperia:Nexperia_SOT753.official.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -34,7 +34,7 @@ Each library contains footprints for a specific vendor or manufacturer.
 - [Espressif](#espressif)
 - [Hammond](#hammond)
 - [Microchip](#microchip)
-- [NXP](#nxp)
+- [Nexperia](#nexperia)
 - [onsemi](#onsemi)
 - [TagConnect](#tagconnect)
 
@@ -56,10 +56,10 @@ Each library contains footprints for a specific vendor or manufacturer.
 - <a id="TDFN-8-2x3-MN">[TDFN-8-2x3-MN](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MN_C04-0129E-MN.pdf) &mdash; TDFN-8 (MN) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad
 - <a id="TDFN-8-2x3-MNY">[TDFN-8-2x3-MNY](http://ww1.microchip.com/downloads/en/DeviceDoc/8L_TDFN_2x3_MNY_C04-0129E-MNY.pdf) &mdash; TDFN-8 (MNY) • 2×3×0.8mm 0.5P • 1.4×1.3mm exposed pad • Ni/Pd/Au leads
 
-### NXP
+### Nexperia
 
-- <a id="NXP_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
-- <a id="NXP_SOT753">[SOT753](https://www.nxp.com/packages/SOT753.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
+- <a id="Nexperia_SOT353-1">[SOT353-1](https://www.nexperia.com/packages/SOT353-1.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSSOP-5 • MO-203 SC-88A • 2×1.25mm 0.65P
+- <a id="Nexperia_SOT753">[SOT753](https://www.nexperia.com/packages/SOT753.html) [🌐](#3d-models 'Has 3D Model') &mdash; TSOP-5 • SC-74A • 2.9×1.5mm 0.95P
 
 ### onsemi
 
